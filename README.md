@@ -1,12 +1,9 @@
-#### DarkMode-Toggler-RaectHooks
+#### DarkMode-Toggler-RaectHooks with passing Props with the use of useState Hook
 
 ![AirBnb Scrimba first project](DarkMode.png)
 ![AirBnb Scrimba first project](LightMode.png)
 
-
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
